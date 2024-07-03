@@ -1,2 +1,2 @@
-nombre = "PNL"
+nombre = "PNL + NEURONAL RED"
 print = (hola. + nombre)
